@@ -1,5 +1,5 @@
 # pi-approx
 
-![example of the pi approximation algorithm](eg.png)
+![example of the pi approximation algorithm](eg)
 
 
